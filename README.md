@@ -1,5 +1,7 @@
 # football-analysis
-Analyze the pattern of a football team in a tournament or a single match
+Analyze the pattern of a football team in a tournament or a single match. <br />
+<br />
+<br />
 The Output will look like:
 <img width="1614" height="1149" alt="output 5" src="https://github.com/user-attachments/assets/5bd50c53-2d43-455a-b708-7d7cb36c8e55" />
 <img width="1479" height="1186" alt="output 4" src="https://github.com/user-attachments/assets/1ef18d2c-dc9c-45a0-aec9-5ac61f039b0f" />
